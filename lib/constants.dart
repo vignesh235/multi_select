@@ -42,3 +42,7 @@ late AudioPlayer player;
 List<TextEditingController> controllers = [];
 // bool read = true;
 var Sample;
+double screenheight = 0.0;
+double screenwidth = 0.0;
+
+List map = ["Vignesh", "Siva", "Ravi", "Sample", "Test", "saji", "xxxxx"];

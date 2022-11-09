@@ -38,6 +38,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   just_audio: ^0.9.30
   getwidget: ^3.0.1
+  google_fonts: ^3.0.1
+  searchfield: ^0.7.2
 
 dev_dependencies:
   flutter_test:
